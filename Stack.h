@@ -19,4 +19,4 @@ private:
 	Type *theArray;
 	int topOfStack = -1;
 	size_t theCapacity;
-};
+}
